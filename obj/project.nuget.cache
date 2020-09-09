@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xij4GfiYNajcMw4bKfcb+PbJtxEqA3J1zXTDV0EnRQ/jOTNnUhzuM6qfyu7Xmmd9yBPBj1t8c/7El9y06QN9pA==",
+  "success": true,
+  "projectFilePath": "/mnt/1AC4C62AC4C60849/DEV/Workspace/BackendTest/BooksAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/jorge/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
